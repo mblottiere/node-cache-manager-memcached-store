@@ -27,7 +27,7 @@
     "standard": "7.1.2"
   },
   "dependencies": {
-    "memcache-plus": "0.2.20",
+    "memcache-plus": "git+https://github.com/mblottiere/memcache-plus.git#86d360fe95ea435dc2c15bc344954c29932f9822",
     "xtend": "4.0.1"
   }
 }
